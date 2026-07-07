@@ -1,1 +1,1 @@
-[{"name":"login","status":"pass","score":1},{"name":"header","status":"pass","score":1},{"name":"footer","status":"pass","score":1},{"name":"giftcard","status":"baseline","score":null},{"name":"cms-cookies","status":"baseline","score":null}]
+{"generatedAt":"2026-07-07T07:19:06+00:00","checkpoints":[{"name":"login","status":"pass","score":1},{"name":"header","status":"pass","score":1},{"name":"footer","status":"pass","score":1},{"name":"giftcard","status":"baseline","score":null},{"name":"cms-cookies","status":"baseline","score":null}]}
